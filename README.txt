@@ -1,2 +1,2 @@
-Projeto BS para condomínios.
 Plataforma.
+Sistema de versionamento.
